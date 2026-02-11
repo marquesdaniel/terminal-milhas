@@ -1,7 +1,5 @@
 streamlit
 pandas
-numpy
+requests
 matplotlib
-sqlalchemy
-scikit-learn
-scipy
+numpy
